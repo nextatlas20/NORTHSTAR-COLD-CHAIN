@@ -1,0 +1,3 @@
+ticket_id,unit_id,unit_name,recorded_at,temperature_c,maximum_c,excess_c
+SC-102,UC-03,Quarry freezer,2166-01-22T00:40Z,-19.5,-20.0,0.5
+SC-103,UC-04,Station cooler,2166-01-22T00:40Z,7.0,6.5,0.5
