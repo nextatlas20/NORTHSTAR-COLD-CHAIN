@@ -1,0 +1,5 @@
+unit_id,unit_name,maximum_c,calibration_due
+UC-01,Harbor freezer,-18.0,YES
+UC-02,Orchard chiller,4.0,NO
+UC-03,Quarry freezer,-20.0,YES
+UC-04,Station cooler,6.5,YES
